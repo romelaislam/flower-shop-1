@@ -100,10 +100,12 @@ line-height: 30px;
      background-color: rgba(71, 125, 17, 0.15);
 
 }
-.pink-flower-a{
+.three-text{
     display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
     margin-bottom: 40px;
- 
+   
 }
 
 .Hot-Deal-banner{
